@@ -11,13 +11,12 @@
 	``` bash
 	npm install
 	[sudo] gem install compass
-	bower install
 	```
 
 1. Start the application
 
 	``` bash
-	docpad run
+	npm start
 	```
 
 1. [Open http://localhost:9778/](http://localhost:9778/)
